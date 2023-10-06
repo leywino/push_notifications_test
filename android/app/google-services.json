@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328962480054",
+    "project_id": "pushnotification-3fb65",
+    "storage_bucket": "pushnotification-3fb65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328962480054:android:799ac69f6c3294edb09317",
+        "android_client_info": {
+          "package_name": "com.leywin.push_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCurpE4nfbnXxARjKxHrwGGrBZmjLV1b8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
